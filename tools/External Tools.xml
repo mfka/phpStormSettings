@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="cs-fixer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.config/composer/vendor/bin/php-cs-fixer" />
+      <option name="PARAMETERS" value="fix --verbose --config=/home/rstit/Projects/terpbook/.php_cs $FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

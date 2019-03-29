@@ -1,0 +1,87 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="11.10.0" last-modified="1550222540000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.15.0/bin/node">
+      <version-cache version="10.15.0" last-modified="1545805603000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.15.0/bin/node">
+      <version-cache version="8.15.0" last-modified="1545802914000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.75481796" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.76811594" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DbRenameDialog.previewExpanded" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="nginx&#10;font&#10;cov&#10;Lara&#10;Laravel" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="18" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="MYSQL_DUMP_CLI_PACK_LAST_USED_CONFIGURATION" value="MYSQL_PROPERTIES" />
+    <property name="MYSQL_PROPERTIES_COMMAND" value="--result-file=&quot;/home/rstit/Projects/dumps/terp.sql&quot; --all-databases" />
+    <property name="MYSQL_PROPERTIES_EXPANDED" value="true" />
+    <property name="MYSQL_PROPERTIES_PATH" value="/usr/bin/mysqldump" />
+    <property name="MYSQL_PROPERTIES_VARIANTS_-753420028" value="--databases --all-databases -A -Y --all-tablespaces -y --no-tablespaces --add-drop-database --add-drop-table --skip-add-drop-table --add-locks --skip-add-locks --allow-keywords --apply-slave-statements --character-sets-dir= -i --comments --skip-comments --compatible= --compact --skip-disable-keys --skip-set-charset -c --complete-insert -C --compress -a --create-options --skip-create-options -B -# --debug --debug-check --debug-info --default-character-set= --delayed-insert --delete-master-logs --master-data -K --disable-keys --dump-slave --lock-all-tables --single-transaction --lock-tables -E --events -e --extended-insert --skip-extended-insert --fields-terminated-by= --fields-enclosed-by= --fields-optionally-enclosed-by= --fields-escaped-by= -F --flush-logs --databases= --flush-privileges -f --force --gtid --master-data= --dump-slave= --help --hex-blob -h --host= --ignore-table= --include-master-host-port --insert-ignore --lines-terminated-by= -x -l --skip-lock-tables --log-error= --log-queries --skip-log-queries --max-allowed-packet= --net-buffer-length= --no-autocommit -n --no-create-db -t --no-create-info -d --no-data --no-data-med --skip-no-data-med -N --no-set-names --opt --quick --set-charset --skip-opt --order-by-primary -p --password -P --port= --protocol= -q --skip-quick -Q --quote-names --skip-quote-names --replace -r --result-file= -R --routines --dump-date --skip-dump-date -S --socket= --ssl --ssl-ca= --ssl-capath= --ssl-cert= --ssl-cipher= --ssl-key= --ssl-crl= --ssl-crlpath= --ssl-verify-server-cert -T --tab= --tables --triggers --skip-triggers --tz-utc --skip-tz-utc -u --user= -v --verbose -V --version -w --where= -X --xml --plugin-dir= --default-auth=" />
+    <property name="MYSQL_RESTORE_CLI_PACK_LAST_USED_CONFIGURATION" value="MYSQL_RESTORE_KEY" />
+    <property name="MYSQL_RESTORE_KEY_COMMAND" value="--database=&quot;terp_local&quot; &lt; &quot;/home/rstit/Downloads/terp_2019-01-28.sql&quot;" />
+    <property name="MYSQL_RESTORE_KEY_EXPANDED" value="true" />
+    <property name="MYSQL_RESTORE_KEY_PATH" value="/usr/bin/mysql" />
+    <property name="MYSQL_RESTORE_KEY_VARIANTS_-2069723376" value="--help -I --abort-source-on-error --auto-rehash --disable-auto-rehash --skip-auto-rehash -A --no-auto-rehash --auto-vertical-output -B --batch --silent --binary-as-hex --character-sets-dir= --column-type-info -c --comments --skip-comments -C --compress -# --debug --debug-check -T --debug-info -D --database= --default-character-set= --delimiter= -e --execute= --force -E --vertical -f -G --named-commands --disable-named-commands -i --ignore-spaces --init-command= --local-infile -b --no-beep -h --host= -H --html -X --xml --line-numbers --skip-line-numbers -L -n --unbuffered --column-names --skip-column-names -N --sigint-ignore -o --one-database --pager --disable-pager -p --password -P --port= --progress-reports --skip-progress-reports --prompt= --protocol= -q --quick -r --raw --reconnect --disable-reconnect --skip-reconnect -s -S --socket= --ssl --ssl-ca= --ssl-capath= --ssl-cert= --ssl-cipher= --ssl-key= --ssl-crl= --ssl-crlpath= --ssl-verify-server-cert -t --table --tee= --disable-tee -u --user= -U --safe-updates --i-am-a-dummy -v --verbose -V --version -w --wait --connect-timeout= --max-allowed-packet= --net-buffer-length= --select-limit= --max-join-size= --secure-auth --server-arg= --show-warnings --plugin-dir= --default-auth= --binary-mode" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpUnit.Splitter.Proportion" value="0.3794038" />
+    <property name="PhpUnitSupport.hidePassedTests" value="false" />
+    <property name="SettingsSearchHistory" value="reposi&#10;Tab,Indent&#10;plugi&#10;font&#10;Laravel" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="nginx&#10;Lines Sorter&#10;cover&#10;short&#10;Laravel" />
+    <property name="Vcs.Log.Text.Filter.History" value="TERP-714&#10;TERP-715&#10;TERp-746&#10;TERp-709&#10;TERP-712" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.46272492" />
+    <property name="cc.takacs.php_codeverage_display.enabled" value="true" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.database.actions.ToolActions$ScriptingActionBase$1.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="300" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/terp_2019-01-28.sql&#10;/home/rstit/Downloads/terp_2019-03-19.sql&#10;/home/rstit/Projects/dumps/terp.sql&#10;/home/rstit/Projects/dumps&#10;/home/rstit/Downloads/JSON_Formatter_6699.zip&#10;/home/rstit/Projects/terpbook/tests&#10;/home/rstit/Downloads/terp_prod_2018-12-20.sql&#10;/home/rstit/Projects/terpbook&#10;/home/rstit/Projects/terpbook/app&#10;/home/rstit/Projects/terpbook/vendor&#10;/run/media/rstit/9233cd62-e64d-4958-b133-eacaf9f5b864/home/rst/.PhpStorm2018.3/config/settings.zip" />
+    <property name="file.gist.reindex.count" value="105589" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="find.popup.splitter" value="0.33619457" />
+    <property name="lastTip" value="85" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.21291356" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.6221985" />
+    <property name="vcs.log.details.splitter.proportion" value="0.6182796" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://kmpgroup.atlassian.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfe7dfcbdfd8dfcfdfc1df9bdf9edf9a</password>
+      <option name="inCloud" value="true" />
+      <option name="jiraVersion" value="1001.0.0-SNAPSHOT" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>marek.firlejczyk@rst-it.com</username>
+    </JIRA>
+  </component>
+</application>
