@@ -113,6 +113,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete Rows">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'Ctrl+Y'</ShortCut>
+          <Description>Delete Rows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Drop">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -558,7 +566,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>109</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
